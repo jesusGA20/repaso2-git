@@ -1,7 +1,15 @@
-#Documentacion de mi proyecto
+# Documentacion de mi proyecto
 ## Apartado 1: Introducción
 ### Referencias
 buenos dias
+
+>esto es una nota
+
+>[!WARNING]
+>cuidado con los virus informaticos
+
+
+Ejemplo de emoji: :home
 * uno
 * dos
   * dosA
