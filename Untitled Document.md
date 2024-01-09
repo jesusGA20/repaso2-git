@@ -9,7 +9,7 @@ buenos dias
 >cuidado con los virus informaticos
 
 
-Ejemplo de emoji: :home
+Ejemplo de emoji: :home:
 * uno
 * dos
   * dosA
